@@ -129,7 +129,7 @@ const FinalSurprise = ({ audioRef }) => {
               }}
             >
               <h3 className="text-3xl sm:text-5xl font-bold mb-6">
-                Happy Birthday 💜
+                Happy Birthday Priyanka 💜
               </h3>
 
               {/* <motion.video
@@ -228,7 +228,8 @@ onEnded={() => {
           </motion.div>
         )}
         <p className="mt-10 text-sm text-slate-500">
-          Made with caffeine and good intentions ✨
+          {/* Made with caffeine and good intentions ✨ */}
+          Built by a friend who only knows coding, not hacking 😭
         </p>
       </motion.div>
     </div>
