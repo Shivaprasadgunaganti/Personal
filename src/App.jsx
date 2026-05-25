@@ -242,7 +242,8 @@ function App() {
 
       <BirthdayMessage />
 
-      <FinalSurprise />
+      {/* <FinalSurprise /> */}
+      <FinalSurprise audioRef={audioRef} />
 
     </div>
   );
