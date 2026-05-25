@@ -13,12 +13,24 @@ but I’m genuinely glad life somehow connected us online.
 
 Thank you for the random conversations,
 the laughs,
+the guidance,
 and the moments that made ordinary days feel lighter.
+
+Honestly,
+this isn’t some attempt to impress you or make things dramatic 😭
+
+I just wanted to make something fun,
+memorable,
+and a little different...
+
+because you genuinely became an important friend.
+
 
 Hope this year brings you peace,
 good health,
-and moments worth remembering.
+less stress,
+and lots of genuinely happy moments.
 
 And most importantly —
-I hope you keep being yourself.
+I hope you always stay this simple and genuine.
 `;
